@@ -29,7 +29,7 @@ Using **Java** to determine the solution. Incorrect solutions will be eliminated
 |10|[(5,7),(10,12),(4,10)]|17|
 
 ### Submission Procedure:
-1. Fork the repo
-2. Edit template class AirMilesPromotion.java
-3. Submit a pull request for your code
+1. Edit template and have all the logic in class AirMilesPromotion.java
+2. **Put your name in the java file so we know who the author is**
+3. Submit https://www.dropbox.com/request/0aGmg8sW0lVVeazqy96w
 
